@@ -38,7 +38,7 @@ public class parityOfWord  {
 	
 	
 	public static void main (String[] args) {
-		computeParity(7);
+		computeParity(2);
 		computeFasterParity(7);
 	}
 	
